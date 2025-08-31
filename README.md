@@ -6,7 +6,7 @@ convert htmligator output directory or zip file into epub
 
 ## Build
 ```
-cd src
+cd src/zip2epub
 docker build -t zip2epub .
 ```
 
